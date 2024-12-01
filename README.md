@@ -13,7 +13,7 @@ Features
 - IoT Connectivity: Optional integration for remote notifications and data visualization.  
 - Ease of Customization: Scalable design for different industrial applications.  
 
-**How to Use  
+How to Use  
 1. **Prerequisites**:  
    - Proteus software  
    - Arduino IDE (or other microcontroller IDEs)  
